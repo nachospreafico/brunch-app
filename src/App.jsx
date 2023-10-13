@@ -1,5 +1,5 @@
 import "./App.css";
-import Hero from "./components/Hero.Jsx";
+import Hero from "./components/Hero";
 import ItemCards from "./components/ItemCards";
 import Header from "./components/Header";
 import Food from "./components/Food";
